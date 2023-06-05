@@ -47,8 +47,12 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+
+![Screenshot (197)](https://github.com/Pavithraramasaamy/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118596964/2d75b6c8-716a-4c65-a27c-9c198aa6467c)
+
+
+### Name:PAVITHRA R
+### Register Number:212222230106
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
